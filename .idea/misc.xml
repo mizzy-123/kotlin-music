@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PEMROGRAMAN/Android/Backup/Music/app/src/main/res/layout/activity_player.xml" value="0.1743659420289855" />
+        <entry key="..\:/PEMROGRAMAN/Android/Backup/Music/app/src/main/res/layout/activity_track.xml" value="0.1743659420289855" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/drawable/avd_play_to_pause.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/drawable/ic_music_note.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/drawable/ic_pause_black_24dp.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/drawable/ic_play_arrow_black_24dp.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/drawable/ic_skip_next_black_24dp.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/drawable/ic_skip_previous_black_24dp.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/layout/activity_player.xml" value="0.17074275362318841" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/layout/activity_setting_aplikasi.xml" value="0.22" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player15/app/src/main/res/layout/music_widget.xml" value="0.11911231884057971" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player2/app/src/main/res/layout/activity_album.xml" value="0.17074275362318841" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player2/app/src/main/res/layout/activity_player.xml" value="0.25" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab2/kotlin-music-player2/app/src/main/res/layout/item_grid_album.xml" value="0.17074275362318841" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/drawable/ic_baseline_repeat_24.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/drawable/ic_baseline_repeat_one_24.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/drawable/ic_play_arrow_black_24dp.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/drawable/ic_skip_next_black_24dp.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/drawable/ic_skip_previous_black_24dp.xml" value="0.1545" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/layout/activity_album.xml" value="0.17074275362318841" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/layout/activity_folder.xml" value="0.11911231884057971" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/layout/activity_setting_aplikasi.xml" value="0.17074275362318841" />
+        <entry key="..\:/PEMROGRAMAN/Android/Gitlab3/kotlin-music-player2/app/src/main/res/layout/music_widget.xml" value="0.25" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.163" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/layout/activity_player.xml" value="0.25" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/layout/activity_track.xml" value="0.17074275362318841" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/layout/item_grid_library.xml" value="0.17074275362318841" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/layout/item_grid_library2.xml" value="0.25" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/layout/item_grid_track.xml" value="0.25" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/mipmap-anydpi-v26/ic_album.xml" value="0.163" />
+        <entry key="..\:/PEMROGRAMAN/Android/Polines/Music/app/src/main/res/mipmap-anydpi-v26/ic_album_round.xml" value="0.163" />
+        <entry key="..\:/TUGAS/AStudio/kotlin-music-player/app/src/main/res/drawable/avd_pause_to_play.xml" value="0.304" />
+        <entry key="..\:/TUGAS/AStudio/kotlin-music-player/app/src/main/res/drawable/avd_play_to_pause.xml" value="0.304" />
+        <entry key="..\:/TUGAS/AStudio/kotlin-music-player/app/src/main/res/drawable/pencarian.xml" value="0.375" />
+        <entry key="..\:/TUGAS/AStudio/kotlin-music-player/app/src/main/res/layout/activity_player.xml" value="0.35190217391304346" />
+        <entry key="..\:/TUGAS/AStudio/kotlin-music-player/app/src/main/res/layout/activity_track.xml" value="0.35190217391304346" />
+        <entry key="..\:/TUGAS/AStudio/kotlin-music-player/app/src/main/res/layout/item_grid_library2.xml" value="0.35190217391304346" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicAppProject/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/kotlin-music-player/app/src/main/res/layout/activity_player.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/kotlin-music-player3/app/src/main/res/layout/music_widget.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/miko/AndroidStudioProjects/kotlin-music-player3/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/miko/AndroidStudioProjects/kotlin-music-player3/app/src/main/res/layout/activity_playlist.xml" value="0.1796875" />
+        <entry key="..\:/Users/miko/AndroidStudioProjects/kotlin-music-player3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.162" />
+        <entry key="..\:/Users/miko/AndroidStudioProjects/kotlin-music-player4/app/src/main/res/layout/activity_album.xml" value="0.1796875" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player/app/src/main/res/layout/activity_player.xml" value="0.21621621621621623" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player/app/src/main/res/layout/activity_track.xml" value="0.25" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player/app/src/main/res/layout/item_grid_library.xml" value="0.25" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player/app/src/main/res/layout/item_grid_library2.xml" value="0.25" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player/app/src/main/res/layout/item_grid_track.xml" value="0.25" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/drawable/pencarian.xml" value="0.2555" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout-v23/activity_playlist.xml" value="0.25" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout/activity_player.xml" value="0.20512820512820512" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout/activity_playlist.xml" value="0.20512820512820512" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout/activity_setting_aplikasi.xml" value="0.20512820512820512" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout/activity_track.xml" value="0.25" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout/activity_track_playlist.xml" value="0.20512820512820512" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout/item_grid_album.xml" value="0.20512820512820512" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player2/app/src/main/res/layout/item_grid_playlist.xml" value="0.20427350427350427" />
+        <entry key="..\:/documents/AndroidStudioProjects/kotlin-music-player5/app/src/main/res/layout/music_widget.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/setting_icon.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_setting_aplikasi.xml" value="0.3667876934449603" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

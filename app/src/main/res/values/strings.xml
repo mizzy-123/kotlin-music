@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Music App Project</string>
+    <string name="title_activity_setting_aplikasi">SettingAplikasi</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="src_setting">Click for changing directory path</string>
+
+    <string name="src_default">*Default directory path is root</string>
+    <string name="src_path_short">%s</string>
+    <string name="src_path_long">%s</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="setting_aplikasi">SETTING APLIKASI</string>
+    <string name="playlist">PLAYLIST</string>
+    <string name="nama_playlist">Nama Playlist</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
